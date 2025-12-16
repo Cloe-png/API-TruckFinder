@@ -1,0 +1,4 @@
+com\example\foodtruck\model\FoodTruck.class
+com\example\foodtruck\controller\FoodTruckController.class
+com\example\foodtruck\repository\FoodTruckRepository.class
+com\example\foodtruck\FoodtruckApiApplication.class
